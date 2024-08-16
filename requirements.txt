@@ -1,4 +1,5 @@
 qdrant_client
+uvicorn
 fastapi
 sentence_transformers
 pydantic
