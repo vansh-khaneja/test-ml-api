@@ -1,1 +1,4 @@
-fastapi[all]
+qdrant_client
+fastapi
+sentence_transformers
+pydantic
